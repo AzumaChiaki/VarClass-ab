@@ -3,7 +3,7 @@
     "id": "com.azuma.syclass",
     "restype": "quick_app",
     "name": "Var课程表",
-    "description": "能够在表盘上显示组件的vela课程表，同时支持通过安卓客户端/astrobox组件导入，在安卓客户端上还可以使用ai导入实现课程\n安卓客户端请移步https://azumachiaki.com 下载中心下载\n*表盘显示课程组件需要自行导入组件或者使用第三方适配表盘实现",
+    "description": "能够在表盘上显示组件的vela课程表，同时支持通过安卓客户端/astrobox组件导入，在安卓客户端上还可以使用ai导入实现课程\n安卓客户端请移步https://azumachiaki.com 下载中心下载\n联系作者：QQ2731796844 验证消息请写Var\n*表盘显示课程组件需要自行导入组件或者使用第三方适配表盘实现",
     "preview": [
       "media/pre0.png",
       "media/pre1.png",
